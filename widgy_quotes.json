@@ -2,152 +2,247 @@
 {
   "title": "My Quotes Collection",
   "collection_author": "Harry",
-  "version": 1,
+  "version": 2,
   "quotes": [
     {
       "id": 1,
-      "text": "I don’t care that they sold my idea but I care is that they don’t have any of their own.",
-      "author": "Nikola Tesla"
+      "text": "I don’t care that they sold my idea but I care is that they don’t have any of their own."
     },
     {
       "id": 2,
-      "text": "Intelligence is the ability to adapt to change.",
-      "author": "Stephen Hawking"
+      "text": "Intelligence is the ability to adapt to change."
     },
     {
       "id": 3,
-      "text": "Before you’re diagnosed someone with depression, make sure they aren’t simply surrounded by idiots.",
-      "author": "Sigmund Freud"
+      "text": "Before you’re diagnosed someone with depression, make sure they aren’t simply surrounded by idiots."
     },
     {
       "id": 4,
-      "text": "Little knowledge makes people feel proud. A lot of knowledge makes people feel humble.",
-      "author": "Leonardo da Vinci"
+      "text": "Little knowledge makes people feel proud. A lot of knowledge makes people feel humble."
     },
     {
       "id": 5,
-      "text": "No great discovery was ever made without a bold guess.",
-      "author": "Isaac Newton"
+      "text": "No great discovery was ever made without a bold guess."
     },
     {
       "id": 6,
-      "text": "Truth will always remain true. Even if everyone rejects it and contradicts it.",
-      "author": "Galileo Galilei"
+      "text": "Truth will always remain true. Even if everyone rejects it and contradicts it."
     },
     {
       "id": 7,
-      "text": "We cannot solve our problems with the same thinking we used when we created them.",
-      "author": "Albert Einstein"
+      "text": "We cannot solve our problems with the same thinking we used when we created them."
     },
     {
       "id": 8,
-      "text": "A person who dares to waste one hour of their time has not discovered the value of life.",
-      "author": "Charles Darwin"
+      "text": "A person who dares to waste one hour of their time has not discovered the value of life."
     },
     {
       "id": 9,
-      "text": "Sometimes people don't want to hear the truth because they don't want their illusions destroyed.",
-      "author": "Friedrich Nietzsche"
+      "text": "Sometimes people don't want to hear the truth because they don't want their illusions destroyed."
     },
     {
       "id": 10,
-      "text": "The further a society drifts from the truth, the more it will hate those who speak it.",
-      "author": "George Orwell"
+      "text": "The further a society drifts from the truth, the more it will hate those who speak it."
     },
     {
       "id": 11,
-      "text": "It’s easier to fool people than to convince them that they have been fooled.",
-      "author": "Mark Twain"
+      "text": "It’s easier to fool people than to convince them that they have been fooled."
     },
     {
       "id": 12,
-      "text": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.",
-      "author": "Arthur Schopenhauer"
+      "text": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."
     },
     {
       "id": 13,
-      "text": "The more I learn, the more I realize how much I don't know.",
-      "author": "Albert Einstein"
+      "text": "The more I learn, the more I realize how much I don't know."
     },
     {
       "id": 14,
-      "text": "The only true wisdom is in knowing you know nothing.",
-      "author": "Socrates"
+      "text": "The only true wisdom is in knowing you know nothing."
     },
     {
       "id": 15,
-      "text": "The educated differ from the uneducated as much as the living from the dead.",
-      "author": "Aristotle"
+      "text": "The educated differ from the uneducated as much as the living from the dead."
     },
     {
       "id": 16,
-      "text": "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.",
-      "author": "Nikola Tesla"
+      "text": "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
     },
     {
       "id": 17,
-      "text": "It is not that we have a short time to live, but that we waste a lot of it.",
-      "author": "Seneca"
+      "text": "It is not that we have a short time to live, but that we waste a lot of it."
     },
     {
       "id": 18,
-      "text": "Your time is limited, so don't waste it living someone else's life.",
-      "author": "Steve Jobs"
+      "text": "Your time is limited, so don't waste it living someone else's life."
     },
     {
       "id": 19,
-      "text": "I am not what happened to me, I am what I choose to become.",
-      "author": "Carl Jung"
+      "text": "I am not what happened to me, I am what I choose to become."
     },
     {
       "id": 20,
-      "text": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
-      "author": "Albert Camus"
+      "text": "In the depth of winter, I finally learned that within me there lay an invincible summer."
     },
     {
       "id": 21,
-      "text": "Everyone sees what you appear to be, few experience what you really are.",
-      "author": "Machiavelli"
+      "text": "Everyone sees what you appear to be, few experience what you really are."
     },
     {
       "id": 22,
-      "text": "Be alone, that is the secret of invention; be alone, that is when ideas are born.",
-      "author": "Nikola Tesla"
+      "text": "Be alone, that is the secret of invention; be alone, that is when ideas are born."
     },
     {
       "id": 23,
-      "text": "There are decades where nothing happens and there are weeks when decades happen.",
-      "author": "Anonymous"
+      "text": "There are decades where nothing happens and there are weeks when decades happen."
     },
     {
       "id": 24,
-      "text": "Are we what we do with time or are we what time does with us?",
-      "author": "Mahmud Darwish"
+      "text": "Are we what we do with time or are we what time does with us?"
     },
     {
       "id": 25,
-      "text": "The more you understand this world the more you destroy yourself. That’s why fools are happy and intelligent people live in loneliness.",
-      "author": "Anonymous"
+      "text": "The more you understand this world the more you destroy yourself. That’s why fools are happy and intelligent people live in loneliness."
     },
     {
       "id": 26,
-      "text": "And yet the only exciting life is the imaginary one.",
-      "author": "Virginia Woolf"
+      "text": "And yet the only exciting life is the imaginary one."
     },
     {
       "id": 27,
-      "text": "I am a victim of my own conscience. Constantly feeling guilty for things I have not done.",
-      "author": "Franz Kafka"
+      "text": "I am a victim of my own conscience. Constantly feeling guilty for things I have not done."
     },
     {
       "id": 28,
-      "text": "How many years does it take to forget a minute?",
-      "author": "Anonymous"
+      "text": "How many years does it take to forget a minute?"
     },
     {
       "id": 29,
-      "text": "The war to end all wars, began",
-      "author": "Unknown"
+      "text": "The war to end all wars, began"
+    },
+    {
+      "id": 30,
+      "text": "Be a good person but don't waste your time proving it."
+    },
+    {
+      "id": 31,
+      "text": "Being weak is nothing to be ashamed of. Staying weak is!"
+    },
+    {
+      "id": 32,
+      "text": "Don't be fooled by temporary loyalty."
+    },
+    {
+      "id": 33,
+      "text": "Hope is a curse that stops time within us and doesn't let one move on."
+    },
+    {
+      "id": 34,
+      "text": "If people treat you like an option, leave them like a choice."
+    },
+    {
+      "id": 35,
+      "text": "If you knew how quickly people forget the dead, you would stop living to impress people."
+    },
+    {
+      "id": 36,
+      "text": "In reality, hope is the worst of all evils, because it prolongs man's torments."
+    },
+    {
+      "id": 37,
+      "text": "No tree can grow to heaven unless its roots reach down to hell."
+    },
+    {
+      "id": 38,
+      "text": "People don't abandon those they love. They abandon those they're using."
+    },
+    {
+      "id": 39,
+      "text": "Some people take pride in fooling others. While they only fooled themselves."
+    },
+    {
+      "id": 40,
+      "text": "The greatest lie a poet can say is that words alone can capture the fullness of truth."
+    },
+    {
+      "id": 41,
+      "text": "The only time people think about injustice is when it happens to them."
+    },
+    {
+      "id": 42,
+      "text": "The pain associated with the fear of failure is often stronger than the pain of failure itself."
+    },
+    {
+      "id": 43,
+      "text": "The day you realize you have no one but yourself, is the day you realize you need no one but yourself."
+    },
+    {
+      "id": 44,
+      "text": "The best way to not get your heart broken is to pretend that you don't have one."
+    },
+    {
+      "id": 45,
+      "text": "When you distance yourself from certain things, you realize they weren't really worth it."
+    },
+    {
+      "id": 46,
+      "text": "When you learn to survive without anyone you can survive anything."
+    },
+    {
+      "id": 47,
+      "text": "You can lose it when you never had it."
+    },
+    {
+      "id": 48,
+      "text": "Showing your emotions to people is like bleeding next to a shark. Not everyone deserves to see your vulnerability."
+    },
+    {
+      "id": 49,
+      "text": "Don't waste your love on somebody who doesn't value it."
+    },
+    {
+      "id": 50,
+      "text": "Loyalty is just a word, Character plays the real game."
+    },
+    {
+      "id": 51,
+      "text": "Somewhere between all the advice about letting go, setting boundaries, and protecting your peace, we forgot what love actually is."
+    },
+    {
+      "id": 52,
+      "text": "When a man learns to feel love, he must also bear the risk of feeling hate."
+    },
+    {
+      "id": 53,
+      "text": "Focus on yourself and what makes you happy."
+    },
+    {
+      "id": 54,
+      "text": "If you can overthink the worst why can't you overthink the best."
+    },
+    {
+      "id": 55,
+      "text": "If you are so sure, burn the ships."
+    },
+    {
+      "id": 56,
+      "text": "People laugh at dreams...until the results become real."
+    },
+    {
+      "id": 57,
+      "text": "Suffer the pain of discipline, or suffer the pain of regret."
+    },
+    {
+      "id": 58,
+      "text": "The pain you feel today is the strength you feel tomorrow."
+    },
+    {
+      "id": 59,
+      "text": "To help people: help yourself first."
+    },
+    {
+      "id": 60,
+      "text": "I will become strong enough to need only myself."
     }
   ]
 }
