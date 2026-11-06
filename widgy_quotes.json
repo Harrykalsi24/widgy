@@ -1,0 +1,153 @@
+
+{
+  "title": "My Quotes Collection",
+  "collection_author": "Harry",
+  "version": 1,
+  "quotes": [
+    {
+      "id": 1,
+      "text": "I don’t care that they sold my idea but I care is that they don’t have any of their own.",
+      "author": "Nikola Tesla"
+    },
+    {
+      "id": 2,
+      "text": "Intelligence is the ability to adapt to change.",
+      "author": "Stephen Hawking"
+    },
+    {
+      "id": 3,
+      "text": "Before you’re diagnosed someone with depression, make sure they aren’t simply surrounded by idiots.",
+      "author": "Sigmund Freud"
+    },
+    {
+      "id": 4,
+      "text": "Little knowledge makes people feel proud. A lot of knowledge makes people feel humble.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 5,
+      "text": "No great discovery was ever made without a bold guess.",
+      "author": "Isaac Newton"
+    },
+    {
+      "id": 6,
+      "text": "Truth will always remain true. Even if everyone rejects it and contradicts it.",
+      "author": "Galileo Galilei"
+    },
+    {
+      "id": 7,
+      "text": "We cannot solve our problems with the same thinking we used when we created them.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 8,
+      "text": "A person who dares to waste one hour of their time has not discovered the value of life.",
+      "author": "Charles Darwin"
+    },
+    {
+      "id": 9,
+      "text": "Sometimes people don't want to hear the truth because they don't want their illusions destroyed.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "id": 10,
+      "text": "The further a society drifts from the truth, the more it will hate those who speak it.",
+      "author": "George Orwell"
+    },
+    {
+      "id": 11,
+      "text": "It’s easier to fool people than to convince them that they have been fooled.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 12,
+      "text": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident.",
+      "author": "Arthur Schopenhauer"
+    },
+    {
+      "id": 13,
+      "text": "The more I learn, the more I realize how much I don't know.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 14,
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "id": 15,
+      "text": "The educated differ from the uneducated as much as the living from the dead.",
+      "author": "Aristotle"
+    },
+    {
+      "id": 16,
+      "text": "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.",
+      "author": "Nikola Tesla"
+    },
+    {
+      "id": 17,
+      "text": "It is not that we have a short time to live, but that we waste a lot of it.",
+      "author": "Seneca"
+    },
+    {
+      "id": 18,
+      "text": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 19,
+      "text": "I am not what happened to me, I am what I choose to become.",
+      "author": "Carl Jung"
+    },
+    {
+      "id": 20,
+      "text": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+      "author": "Albert Camus"
+    },
+    {
+      "id": 21,
+      "text": "Everyone sees what you appear to be, few experience what you really are.",
+      "author": "Machiavelli"
+    },
+    {
+      "id": 22,
+      "text": "Be alone, that is the secret of invention; be alone, that is when ideas are born.",
+      "author": "Nikola Tesla"
+    },
+    {
+      "id": 23,
+      "text": "There are decades where nothing happens and there are weeks when decades happen.",
+      "author": "Anonymous"
+    },
+    {
+      "id": 24,
+      "text": "Are we what we do with time or are we what time does with us?",
+      "author": "Mahmud Darwish"
+    },
+    {
+      "id": 25,
+      "text": "The more you understand this world the more you destroy yourself. That’s why fools are happy and intelligent people live in loneliness.",
+      "author": "Anonymous"
+    },
+    {
+      "id": 26,
+      "text": "And yet the only exciting life is the imaginary one.",
+      "author": "Virginia Woolf"
+    },
+    {
+      "id": 27,
+      "text": "I am a victim of my own conscience. Constantly feeling guilty for things I have not done.",
+      "author": "Franz Kafka"
+    },
+    {
+      "id": 28,
+      "text": "How many years does it take to forget a minute?",
+      "author": "Anonymous"
+    },
+    {
+      "id": 29,
+      "text": "The war to end all wars, began",
+      "author": "Unknown"
+    }
+  ]
+}
